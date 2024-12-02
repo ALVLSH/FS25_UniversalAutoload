@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <l10n>
 	<texts>
-		<text name="shop_configuration_text" text="Autoload"/>
+		<text name="shop_configuration_text" text="Автозагрузка"/>
 		<text name="configuration_universalAutoload" text="Универсальная Автозагрузка"/>
 		<text name="input_UNIVERSALAUTOLOAD_TOGGLE_LOADING" text="Переключить загрузку"/>
 		<text name="input_UNIVERSALAUTOLOAD_TOGGLE_BALE_COLLECTION" text="Автоматический сбор тюков"/>
@@ -52,9 +52,9 @@
 		<text name="universalAutoload_LIQUID_TANK" text="IBC-бак"/>
 		<text name="universalAutoload_EURO_PALLET" text="Европоддон"/>
 		<text name="universalAutoload_PIONEER_PALLET" text="Поддон Pioneer"/>
-		<text name="universalAutoload_BIGBAG_PALLET" text="Поддон Bigbag"/>
-		<text name="universalAutoload_BIGBAG" text="Bigbag"/>
-		<text name="universalAutoload_POTATOBOX" text="Ящик картофеля"/>
+		<text name="universalAutoload_BIGBAG_PALLET" text="Поддон с Биг-бэг"/>
+		<text name="universalAutoload_BIGBAG" text="Биг-бэг"/>
+		<text name="universalAutoload_POTATOBOX" text="Ящик для картофеля"/>
 		<text name="universalAutoload_BALE" text="Тюк"/>
 		<text name="universalAutoload_ROUND_BALE" text="Круглый тюк"/>
 		<text name="universalAutoload_SQUARE_BALE" text="Квадратный тюк"/>
